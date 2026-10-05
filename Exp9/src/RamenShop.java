@@ -2,9 +2,18 @@ public class RamenShop {
 	String customerName;
 	int totalPrice = 0;
 	
+	
 	void reserveSeats(String name , int people) {
 		customerName = name;
-		System.out.println(name + "様" + people + "名の座席を確保しました");
+		int seat = 10;
+		
+		if(seat == 0) {
+			System.out.println("本日の営業は終了しました");
+		}else if(seat <= people) {
+			System.out.println("座席を確保できないです");
+		}else {
+			System.out.println(name + "様" + people + "名の座席を確保しました");
+		}
 	}
 	
 	
@@ -41,6 +50,12 @@ public class RamenShop {
 	}
 	
 	int checkout(int payment) {
-		return payment - totalPrice;
+		
+		if(totalPrice > payment) {
+			System.out.println("不足しています");
+		}else {
+			totalPrice = 0;
+		}
+		return payment - totalPrice; 
 	}
 }
