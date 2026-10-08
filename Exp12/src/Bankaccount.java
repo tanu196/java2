@@ -1,5 +1,5 @@
 public class Bankaccount {
-	int balance = 1000;
+	int balance = 1000000;
 	
 	void deposit(int balance) {
 		this.balance += balance;
