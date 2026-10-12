@@ -17,6 +17,21 @@ public class Product {
 		this.stock = 0;
 		this.category = "未分類";
 	}
+	
+	
+	public Product(String name , int price) {
+		this.name = name;
+		this.price = price;
+		this.stock = 0;
+		this.category = "未分類";
+	}
+	
+	public Product(String name , int price , int stock) {
+		this.name = name;
+		this.price = price;
+		this.stock = stock;
+		this.category = "未分類";
+	}
 
 	void showInfo() {
 		System.out.println("商品名：" + this.name);
