@@ -2,6 +2,7 @@ INDEX VERSION 1.134+C:\pleiades\2026-03\java2\.metadata\.plugins\org.eclipse.jdt
 2926381063.index
 2835401758.index
 1560698064.index
+1320739097.index
 1865797976.index
 3003661820.index
 1192144178.index
@@ -10,6 +11,7 @@ INDEX VERSION 1.134+C:\pleiades\2026-03\java2\.metadata\.plugins\org.eclipse.jdt
 762095711.index
 3725065352.index
 1517000905.index
+968872335.index
 3184768462.index
 3402925400.index
 3278031219.index
