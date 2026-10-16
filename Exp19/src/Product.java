@@ -20,5 +20,13 @@ public class Product {
 	int getPrice() {
 		return price;
 	}
+	
+	public void setPrice(int price) {
+		if(price >= 1 && price <= 10000) {
+			this.price = price;
+		}else {
+			System.out.println("価格を変更できませんでした。");
+		}
+	}
 
 }
