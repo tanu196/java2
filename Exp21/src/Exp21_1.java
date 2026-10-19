@@ -8,7 +8,5 @@ public class Exp21_1 {
 		student1.showName();
 		student2.showName();
 		System.out.println("登録学生数：" + Student.studentCount + "人");
-		
-
 	}
 }
