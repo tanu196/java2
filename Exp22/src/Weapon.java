@@ -8,11 +8,11 @@ public class Weapon {
 	}
 	public Weapon() {};
 	
-	String getName(String name) {
+	String getName() {
 		return name;
 	}
 	
-	int getAttackPower(int attackPower) {
+	int getAttackPower() {
 		return attackPower;
 	}
 	
