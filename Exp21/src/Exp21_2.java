@@ -5,7 +5,6 @@ public class Exp21_2 {
 		
 		student1.showName();
 		student2.showName();
-		Student.studentCount++;
 	
 		Student.showStudentCount();
 		
