@@ -10,5 +10,6 @@ public class Exp25_1 {
 		app.setPrice(15000);
 		app.showInfo();
 		
+		var values = new java.util.ArrayList<Integer>();
 	}
 }

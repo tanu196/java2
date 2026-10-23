@@ -1,30 +1,8 @@
-public class Apploance {
-	private String name;
-	private int price;
+public class Apploance extends Product{
+	private int warrantyYears;
 	
-	void showInfo() {
-		System.out.println(name + ":" + price + "円");
+	void showWarranty() {
+		System.out.println("保証期間：保存した年数年");
 	}
-
-	public String getName() {
-		return name;
-	}
-
-	public void setName(String name) {
-		this.name = name;
-	}
-
-	public int getPrice() {
-		return price;
-	}
-
-	public void setPrice(int price) {
-		this.price = price;
-	}
-	
-	
-	
-	
-	
 	
 }
