@@ -13,6 +13,14 @@ public class GameCharacter {
 	}
 }
 
-class Warrior extends GameCharacter{}
+class Warrior extends GameCharacter{
+
+	public Warrior(String string) {
+		// TODO 自動生成されたコンストラクター・スタブ
+	}
+	
+	public Warrior() {}
+
+}
 
 class Mage extends GameCharacter{}
