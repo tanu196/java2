@@ -9,7 +9,7 @@ public class Warrior extends GameCharacter {
 }
 
 class Wafdfdfdf extends Warrior {
-	
-	
-	
+	public void resting() {
+		setHp(getHp());
+	}
 }
