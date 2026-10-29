@@ -1967,3 +1967,33 @@ java.io.IOException: Could not find the language server binary
 
 !ENTRY org.eclipse.lsp4e 2 0 2026-10-28 11:45:00.180
 !MESSAGE [LS:GitHub Copilot 言語サーバー][Warning]	[McpAutoApproveService] Invalid McpAutoApproveService config, resetting to empty undefined
+
+!ENTRY mergedoc.encoding 2 0 2026-10-28 13:34:30.995
+!MESSAGE リソース '/Exp30/src/Exp32_2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-10-28 13:34:30.996
+!MESSAGE リソース '/Exp30/src/Exp32_2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-10-28 13:34:30.996
+!MESSAGE リソース '/Exp30/src/Exp32_2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-10-28 13:34:30.997
+!MESSAGE リソース '/Exp30/src/Exp32_2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-10-28 13:34:30.997
+!MESSAGE リソース '/Exp30/src/Exp32_2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-10-28 13:34:30.998
+!MESSAGE リソース '/Exp30/src/Exp32_2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-10-28 13:34:30.999
+!MESSAGE リソース '/Exp30/src/Exp32_2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-10-28 13:34:30.999
+!MESSAGE リソース '/Exp30/src/Exp32_2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-10-28 13:34:31.018
+!MESSAGE リソース '/Exp30/src/Exp32_2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-10-28 13:34:31.019
+!MESSAGE リソース '/Exp30/src/Exp32_2.java' が存在しません。
