@@ -3,5 +3,9 @@ public class Parent {
 		System.out.println("親");
 	}
 	
+	public static void numkj() {
+		System.out.println("かか");
+	}
+	
 	
 }
