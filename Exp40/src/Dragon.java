@@ -7,7 +7,8 @@ class Dragon extends Monster {
 	}
 
 	@Override
-	public int calculateDamage() {
-		return this.attack * 2;
+	public String calculateDamage() {
+		return "ダメージ:" + this.attack * 2;
+				
 	}
 }

@@ -7,8 +7,8 @@ public class Ghost extends Monster{
 	}
 	
 	@Override
-	public int calculateDamage() {
-		return magic * 3;
+	public String calculateDamage() {
+		return "ダメージ:" + this.magic * 3;
 	}
 	
 	

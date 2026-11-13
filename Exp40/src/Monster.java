@@ -13,5 +13,5 @@ abstract class Monster {
 		System.out.println("モンスター名：" + this.name);
 	}
 
-	public abstract int calculateDamage();
+	public abstract String calculateDamage();
 }
