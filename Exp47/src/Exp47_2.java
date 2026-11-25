@@ -10,6 +10,6 @@ public class Exp47_2 {
 	BigDecimal dec2 = new BigDecimal("0.4");
 	
 		System.out.println(dec1);
-		System.out.println(dec1.add(dec2));
+		System.out.println(dec1.add(dec2));	
 	}
 }
