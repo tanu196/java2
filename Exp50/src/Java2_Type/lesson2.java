@@ -16,5 +16,8 @@ public class lesson2 {
 		 System.out.print(num + " "); 
 		 }
 		
+		 String a = null;
+		 System.out.println(a.length());
+		 
 	}
 }
