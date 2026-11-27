@@ -9,9 +9,17 @@ public class Exp51_1 {
 		
 		
 		
-		
 		Integer objNum = new Integer(num);
 		System.out.println("objNum:" + objNum);
+
+		
+		
+		Integer nmnu = Integer.valueOf(15);
+		int obj2 = obj.intValue();
+		
+		
+		Integer i = 30;
+		Double objDouble = Double.valueOf(i.intValue());
 		
 	}
 }
